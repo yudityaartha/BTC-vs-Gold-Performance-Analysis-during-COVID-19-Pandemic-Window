@@ -80,6 +80,7 @@ Full SQL query: [`sql/btc_gold_analysis.sql`](https://github.com/yudityaartha/BT
 
 
 Here is the exported table that created from SQL queries (step 4)
+
 Table: [`btc_vs_gold & asset_daily_metrics`](https://docs.google.com/spreadsheets/d/1jDS_TWYXyCtlr3ohU5pm5l2UT5YxR7C5BsuA5a8iafQ/edit?usp=sharing)
 
 ---
