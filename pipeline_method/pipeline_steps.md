@@ -16,6 +16,7 @@ This setup means I can iterate on my SQL logic or add new tables, and the update
 
 - BTC: [Bitcoin Historical Dataset](https://www.kaggle.com/datasets/novandraanugrah/bitcoin-historical-datasets-2018-2024)
 - Gold: [Gold Price Dataset](https://www.kaggle.com/datasets/novandraanugrah/xauusd-gold-price-historical-data-2004-2024)
+
 I downloaded both datasets from the link above
 
 ---
@@ -60,7 +61,7 @@ Main tables created:
 - Perform Union All to pivot btc_vs_gold to create `asset_daily_metrics`
 - `asset_daily_metrics`: enriched + labeled dataset for visualization
 
-Full SQL query: [`sql/btc_gold_analysis.sql`](SQL_Queries.sql)
+Full SQL query: [`sql/btc_gold_analysis.sql`]([SQL_Queries.sql](https://github.com/yudityaartha/BTC-vs-Gold-Performance-Analysis-during-COVID-19-Pandemic-Window/blob/main/SQL_Queries.sql))
 
 ---
 
