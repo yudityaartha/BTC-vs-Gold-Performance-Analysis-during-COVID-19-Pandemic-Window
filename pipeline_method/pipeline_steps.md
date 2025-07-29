@@ -61,7 +61,7 @@ Main tables created:
 - Perform Union All to pivot btc_vs_gold to create `asset_daily_metrics`
 - `asset_daily_metrics`: enriched + labeled dataset for visualization
 
-Full SQL query: [`sql/btc_gold_analysis.sql`]([SQL_Queries.sql](https://github.com/yudityaartha/BTC-vs-Gold-Performance-Analysis-during-COVID-19-Pandemic-Window/blob/main/SQL_Queries.sql))
+Full SQL query: [`sql/btc_gold_analysis.sql`](https://github.com/yudityaartha/BTC-vs-Gold-Performance-Analysis-during-COVID-19-Pandemic-Window/blob/main/SQL_Queries.sql)
 
 ---
 
