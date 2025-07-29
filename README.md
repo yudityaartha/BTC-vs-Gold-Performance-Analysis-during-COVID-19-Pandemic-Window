@@ -63,7 +63,7 @@ Interactive Tableau dashboards available here (insert link to Tableau Public onc
 - Momentum Regime
 - Trend Status
 - Daily Percent Change Z-score
-- CLose price vs 7 Days Moving Average (Trend Status)
+- Close price vs 7 Days Moving Average (Trend Status)
 
 ---
 
@@ -72,8 +72,10 @@ Interactive Tableau dashboards available here (insert link to Tableau Public onc
 - **Return Profile**: BTC grew ~9× from Jan 2020; Gold ~1.5×.
 - **Volatility Risk**: BTC is significantly more volatile than Gold, especially during crisis.
 - **Z-Score Behavior**: Gold, despite being less volatile, shows **higher Volatility Z-score spikes**, meaning it’s more reactive relative to its own history.
+
   Meanwhile BTC also react to the crisis, but BTC is already turbulent & chaotic by its nature.
 - **Momentum**: Both BTC and Gold spent most days sideways or mild (bullish or bearish) momentum regimes (~88% - 89% of total days), with estimated only ~10–12% of days show extreme moves (strong bullish or strong bearish).
+  
 While BTC’s daily percent change shows bigger volatility to Gold’s, its higher noise floor means fewer days cross our ‘strong’ thresholds. Whereas Gold, which normally very stable, flags ‘extreme’ strong moves slightly more often.
 - **Trend Regime**: Each asset spent roughly 54% of days above its 7‑day rolling average, The real divergence lies in BTC’s capture explosive returns when “above trend” days but with high whipsaw risk. Whereas, gold’s are steadier and less prone to false breakouts.
 ---
