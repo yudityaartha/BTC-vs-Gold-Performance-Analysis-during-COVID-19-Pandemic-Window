@@ -90,11 +90,3 @@ Full SQL query: [`sql/btc_gold_analysis.sql`](https://github.com/yudityaartha/BT
   - 7 Days moving average vs price movement
 
 - Applied filters: asset, time, volatility regime, trend status
-
----
-
-## Update Plan
-
-- Future improvement: support real-time connection with API-driven BTC/Gold prices
-- Might add Sharpe Ratio and drawdown metrics in the next iteration
-
