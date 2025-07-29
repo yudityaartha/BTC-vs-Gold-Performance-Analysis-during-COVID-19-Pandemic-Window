@@ -48,7 +48,7 @@ Why compare BTC and Gold? Because Gold is traditionally seen as the “safe have
 
 ## Pipeline Overview
 
-See [`pipeline_steps.md`](pipeline/pipeline_steps.md) for a breakdown of how raw data becomes insight.
+See [`pipeline_steps.md`](https://github.com/yudityaartha/BTC-vs-Gold-Performance-Analysis-during-COVID-19-Pandemic-Window/blob/main/pipeline_method/pipeline_steps.md) for a breakdown of how raw data becomes insight.
 
 ---
 
