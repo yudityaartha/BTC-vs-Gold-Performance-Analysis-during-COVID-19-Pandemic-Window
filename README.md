@@ -48,6 +48,14 @@ Why compare BTC and Gold? Because Gold is traditionally seen as the “safe have
 
 ## Pipeline Overview
 
+This is a glimpse how I build my mini pipeline: 
+1. .csv files → PostgreSQL (wrangling, joining, querying)
+2. Queries pushed to the cloud via Railway
+3. Synced to Google Sheets using Coefficient
+4. Final charts built in Tableau Public
+This setup means I can iterate on my SQL logic or add new tables, and the updated data propagates end‑to‑end—no manual exports—keeping my Tableau dashboards always up to date.
+
+
 See [`pipeline_steps.md`](https://github.com/yudityaartha/BTC-vs-Gold-Performance-Analysis-during-COVID-19-Pandemic-Window/blob/main/pipeline_method/pipeline_steps.md) for a breakdown of how raw data becomes insight.
 
 ---
