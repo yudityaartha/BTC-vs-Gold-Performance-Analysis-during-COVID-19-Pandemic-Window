@@ -75,7 +75,7 @@ Interactive Tableau dashboards available here (insert link to Tableau Public onc
 
 See [`Tablaeu Story Point`](https://public.tableau.com/views/BTCandGoldPerfomanceonCOVID-19PandemicWindow/Momentum?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to explore the dashboard I build for this project
 
-I also attached screenshot from the dashboard [`vizzes`](https://github.com/yudityaartha/BTC-vs-Gold-Performance-Analysis-during-COVID-19-Pandemic-Window/tree/main/vizzes) 
+I also attached screenshot from the dashboard which can be viewed from folder [`vizzes`](https://github.com/yudityaartha/BTC-vs-Gold-Performance-Analysis-during-COVID-19-Pandemic-Window/tree/main/vizzes) 
 
 ---
 
