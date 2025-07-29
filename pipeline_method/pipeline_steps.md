@@ -1,10 +1,4 @@
-
----
-
-## `pipeline_steps.md`
-
-```markdown
-# 🔧 BTC vs Gold: Data Pipeline Breakdown
+#  BTC vs Gold: Data Pipeline Breakdown
 
 This file explains how raw Kaggle CSV data was transformed into structured insights using SQL, PostgreSQL, and Tableau.
 
