@@ -78,6 +78,9 @@ Interactive Tableau dashboards available here (insert link to Tableau Public onc
   
 While BTC’s daily percent change shows bigger volatility to Gold’s, its higher noise floor means fewer days cross our ‘strong’ thresholds. Whereas Gold, which normally very stable, flags ‘extreme’ strong moves slightly more often.
 - **Trend Regime**: Each asset spent roughly 54% of days above its 7‑day rolling average, The real divergence lies in BTC’s capture explosive returns when “above trend” days but with high whipsaw risk. Whereas, gold’s are steadier and less prone to false breakouts.
+
+
+
 ---
 
 ## Repository Structure
@@ -87,11 +90,25 @@ btc-vs-gold-performance/
 ├── data/
 │   ├── btc_usdt.csv
 │   └── xau_usdt.csv
-├── sql/
-│   └── btc_gold_analysis.sql
-├── dashboards/
-│   └── tableau_screenshots/
-├── pipeline/
+│   └── btc_vs_gold.xlsx
+├── pipeline_method/
 │   └── pipeline_steps.md
+├── vizzes/
+│   └── tableau_screenshots/
+│   └── Normalized Price
+│   └── Asset Volatilty
+│   └── Momentum
+├── SQL_Queries.sql
 └── README.md
+```
 
+---
+
+## Update Plan
+- Future improvement: support real-time connection with API-driven BTC/Gold prices
+- Might add Sharpe Ratio and drawdown metrics in the next iteration
+
+--- 
+
+## Disclaimer
+This analysis is strictly for educational purposes and reflects my personal exploration of data techniques. It is not intended as investment advice, endorsement, or promotion of Bitcoin, Gold, or any other financial asset. Always do your own research before making any financial decisions.
