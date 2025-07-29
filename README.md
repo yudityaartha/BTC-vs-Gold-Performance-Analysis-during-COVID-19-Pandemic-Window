@@ -42,7 +42,7 @@ Why compare BTC and Gold? Because Gold is traditionally seen as the “safe have
 - **SQL Queries** (Table Join, CASE-WHEN, Window Functions, Aggregation, Union)
 - **Tableau Public** (Interactive dashboards)
 - **Railway** (Database hosting)
-- **Google Sheets** (data source connection to Tableau Public)
+- **Google Sheets with Coefficent Extension** (data source connection to Tableau Public)
 
 ---
 
@@ -83,8 +83,8 @@ Interactive Tableau dashboards available here (insert link to Tableau Public onc
 
   Meanwhile BTC also react to the crisis, but BTC is already turbulent & chaotic by its nature.
 - **Momentum**: Both BTC and Gold spent most days sideways or mild (bullish or bearish) momentum regimes (~88% - 89% of total days), with estimated only ~10–12% of days show extreme moves (strong bullish or strong bearish).
-  
-While BTC’s daily percent change shows bigger volatility to Gold’s, its higher noise floor means fewer days cross our ‘strong’ thresholds. Whereas Gold, which normally very stable, flags ‘extreme’ strong moves slightly more often.
+
+  While BTC’s daily percent change shows bigger volatility to Gold’s, its higher noise floor means fewer days cross our ‘strong’ thresholds. Whereas Gold, which normally very stable, flags ‘extreme’ strong moves slightly more often.
 - **Trend Regime**: Each asset spent roughly 54% of days above its 7‑day rolling average, The real divergence lies in BTC’s capture explosive returns when “above trend” days but with high whipsaw risk. Whereas, gold’s are steadier and less prone to false breakouts.
 
 
