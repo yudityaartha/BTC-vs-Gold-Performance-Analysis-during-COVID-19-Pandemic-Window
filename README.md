@@ -108,11 +108,13 @@ btc-vs-gold-performance/
 │   └── btc_vs_gold.xlsx
 ├── pipeline_method/
 │   └── pipeline_steps.md
+│   └── My Mini Pipeline.pdf
 ├── vizzes/
 │   └── tableau_screenshots/
 │   └── Normalized Price
 │   └── Asset Volatilty
 │   └── Momentum
+├── BTC vs Gold.pdf
 ├── SQL_Queries.sql
 └── README.md
 ```
