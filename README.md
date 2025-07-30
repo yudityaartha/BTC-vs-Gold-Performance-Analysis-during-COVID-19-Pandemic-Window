@@ -75,7 +75,7 @@ Interactive Tableau dashboards available here (insert link to Tableau Public onc
 
   Note: Moving average and rolling average are the same thing.
   
-See [`Tablaeu Story Point`](https://public.tableau.com/views/BTCandGoldPerfomanceonCOVID-19PandemicWindow/Volatility?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to explore the dashboard I build for this project
+See [`Tablaeu Story Point`](https://public.tableau.com/views/BTCandGoldPerfomanceonCOVID-19PandemicWindow/Story?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to explore the dashboard I build for this project
 
 I also attached screenshot from the dashboard which can be viewed from folder [`vizzes`](https://github.com/yudityaartha/BTC-vs-Gold-Performance-Analysis-during-COVID-19-Pandemic-Window/tree/main/vizzes) 
 
@@ -87,7 +87,7 @@ I also attached screenshot from the dashboard which can be viewed from folder [`
 - **Volatility Risk**: BTC is significantly more volatile than Gold, especially during crisis.
 - **Z-Score Behavior**: Gold, despite being less volatile, shows **higher Volatility Z-score spikes**, meaning it’s more reactive relative to its own history.
 
-  Meanwhile BTC also react to the crisis, but BTC is already turbulent & chaotic by its nature.
+  Meanwhile BTC also react to the crisis, but BTC is already volatile by its nature.
 - **Momentum**: Both BTC and Gold spent most days sideways or mild (bullish or bearish) momentum regimes (~88% - 89% of total days), with estimated only ~10–12% of days show extreme moves (strong bullish or strong bearish).
 
   While BTC’s daily percent change shows bigger volatility to Gold’s, its higher noise floor means fewer days cross our ‘strong’ thresholds. Whereas Gold, which normally very stable, flags ‘extreme’ strong moves slightly more often.
