@@ -53,6 +53,7 @@ This is a glimpse how I build my mini pipeline:
 2. Queries pushed to the cloud via Railway
 3. Synced to Google Sheets using Coefficient
 4. Final charts built in Tableau Public
+   
 This setup means I can iterate on my SQL logic or add new tables, and the updated data propagates end‑to‑end—no manual exports—keeping my Tableau dashboards always up to date.
 
 
