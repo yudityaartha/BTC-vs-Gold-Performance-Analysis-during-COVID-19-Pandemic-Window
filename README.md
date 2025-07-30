@@ -24,7 +24,7 @@ Why compare BTC and Gold? Because Gold is traditionally seen as the “safe have
 
 | Metric Name               | Description                                                                 |
 |---------------------------|-----------------------------------------------------------------------------|
-| **Daily Percentage Changes** | close price - prev close price) / prev close price  * 100                |
+| **Daily Percentage Changes** | Close price - prev close price) / prev close price  * 100                |
 | **Normalized Price**      | Price indexed to Jan 1, 2020 (base = 100)                                   |
 | **Rolling Avg (7D)**      | 7-day moving average of close price                                         |
 | **Rolling Volatility (7D)** | 7-day rolling standard deviation of close price                            |
@@ -71,9 +71,11 @@ Interactive Tableau dashboards available here (insert link to Tableau Public onc
 - Momentum Regime
 - Trend Status
 - Daily Percent Change Z-score
-- Close price vs 7 Days Moving Average (Trend Status)
+- Close price vs 7 Days Rolling Average (Trend Status).
 
-See [`Tablaeu Story Point`](https://public.tableau.com/views/BTCandGoldPerfomanceonCOVID-19PandemicWindow/Story?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to explore the dashboard I build for this project
+  Note: Moving average and rolling average are the same thing.
+  
+See [`Tablaeu Story Point`](https://public.tableau.com/views/BTCandGoldPerfomanceonCOVID-19PandemicWindow/Volatility?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to explore the dashboard I build for this project
 
 I also attached screenshot from the dashboard which can be viewed from folder [`vizzes`](https://github.com/yudityaartha/BTC-vs-Gold-Performance-Analysis-during-COVID-19-Pandemic-Window/tree/main/vizzes) 
 
