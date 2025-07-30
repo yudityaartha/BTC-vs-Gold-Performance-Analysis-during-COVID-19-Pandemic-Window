@@ -24,7 +24,7 @@ Why compare BTC and Gold? Because Gold is traditionally seen as the “safe have
 
 | Metric Name               | Description                                                                 |
 |---------------------------|-----------------------------------------------------------------------------|
-| **Daily Percentage Changes** | Close price - prev close price) / prev close price  * 100                |
+| **Daily Percentage Changes** | (Close price - prev close price) / prev close price  * 100                |
 | **Normalized Price**      | Price indexed to Jan 1, 2020 (base = 100)                                   |
 | **Rolling Avg (7D)**      | 7-day moving average of close price                                         |
 | **Rolling Volatility (7D)** | 7-day rolling standard deviation of close price                            |
