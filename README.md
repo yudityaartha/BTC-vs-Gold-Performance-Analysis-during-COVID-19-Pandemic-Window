@@ -57,7 +57,8 @@ This is a glimpse how I build my mini pipeline:
 This setup means I can iterate on my SQL logic or add new tables, and the updated data propagates end‑to‑end—no manual exports—keeping my Tableau dashboards always up to date.
 
 
-See [`pipeline_steps.md`](https://github.com/yudityaartha/BTC-vs-Gold-Performance-Analysis-during-COVID-19-Pandemic-Window/blob/main/pipeline_method/pipeline_steps.md) for a breakdown of how raw data becomes insight.
+See [`pipeline_steps.md`](https://github.com/yudityaartha/BTC-vs-Gold-Performance-Analysis-during-COVID-19-Pandemic-Window/blob/main/pipeline_method/pipeline_steps.md) for a breakdown of how raw data becomes insight. 
+Also, I give a manual how do I create the pipeline on [`my mini pipeline set-up`](https://github.com/yudityaartha/BTC-vs-Gold-Performance-Analysis-during-COVID-19-Pandemic-Window/blob/main/pipeline_method/My%20Mini%20Pipeline%20Set-Up.pdf)
 
 ---
 
@@ -108,7 +109,7 @@ btc-vs-gold-performance/
 │   └── btc_vs_gold.xlsx
 ├── pipeline_method/
 │   └── pipeline_steps.md
-│   └── My Mini Pipeline.pdf
+│   └── My Mini Pipeline Set-Up.pdf
 ├── vizzes/
 │   └── tableau_screenshots/
 │   └── Normalized Price
