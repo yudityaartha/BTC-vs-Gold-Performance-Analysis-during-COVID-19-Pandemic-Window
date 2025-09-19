@@ -64,7 +64,7 @@ Also, I give a manual how do I create the pipeline on [`my mini pipeline set-up`
 
 ## Dashboards
 
-Interactive Tableau dashboards available here (insert link to Tableau Public once published).
+Interactive Tableau dashboards available here.
 
 - Normalized Price
 - Relative Volatility (Coefficient of Variance)
